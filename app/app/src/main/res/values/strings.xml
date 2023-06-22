@@ -1,0 +1,10 @@
+<resources>
+  <string name="app_name">CinéApp</string>
+  <string name="salle">Salle</string>
+  <string name="menu_movie">Film</string>
+  <string name="menu_tv">Tv</string>
+  <string name="menu_person">Accteur</string>
+  <string name="reviews">Reviews</string>
+  <string name="summary">Sommaire</string>
+  <string name="trailers">Trailers</string>
+</resources>
